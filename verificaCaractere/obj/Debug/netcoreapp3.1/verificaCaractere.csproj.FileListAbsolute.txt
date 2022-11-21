@@ -1,0 +1,14 @@
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\bin\Debug\netcoreapp3.1\verificaCaractere.exe
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\bin\Debug\netcoreapp3.1\verificaCaractere.deps.json
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\bin\Debug\netcoreapp3.1\verificaCaractere.runtimeconfig.json
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\bin\Debug\netcoreapp3.1\verificaCaractere.runtimeconfig.dev.json
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\bin\Debug\netcoreapp3.1\verificaCaractere.dll
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\bin\Debug\netcoreapp3.1\verificaCaractere.pdb
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.csproj.AssemblyReference.cache
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.AssemblyInfo.cs
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.dll
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.pdb
+C:\Users\marco\Downloads\projetos(Pessoal)\C#\verificaCaractere\verificaCaractere\obj\Debug\netcoreapp3.1\verificaCaractere.genruntimeconfig.cache
